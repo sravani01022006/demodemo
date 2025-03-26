@@ -10,5 +10,7 @@ array=np.array([[1,2,3],[4,5,6]])
 array_type=type(array)
 
 #this is a python program
+ 
+this is the new program
 
 
